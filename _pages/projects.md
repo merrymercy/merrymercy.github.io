@@ -10,7 +10,7 @@ MAgent is a many-agent reinforcement learning platform.
 It aims at bringing the number of agents in reinforcment learning to million scale.
 
 ---
-# [Malic Compiler](https://github.com/merrymercy/compiler2017)
+# [Compiler Malic](https://github.com/merrymercy/compiler2017)
 Malic is the winner compiler (1/25) in Compiler 2017 at ACM Class.  
 It compiles a java-like language to x86-64 asm with basic optmization techniques.  
 I wrote 10000+ lines for it in 2 months.  
