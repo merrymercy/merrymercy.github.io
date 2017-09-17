@@ -7,7 +7,9 @@ author_profile: true
 ---
 # MAgent
 MAgent is a many-agent reinforcement learning platform.  
-It aims at bringing the number of agents in reinforcment learning to million scale.
+It aims at taking the number of agents in deep reinforcment learning into million scale.
+
+<iframe title="YouTue video player" width="480" height="390" src="https://www.youtube.com/watch?v=FQzco42pDRI?autoplay=1" frameborder="1" allowfullscren></iframe>
 
 ---
 # [Compiler Malic](https://github.com/merrymercy/compiler2017)
