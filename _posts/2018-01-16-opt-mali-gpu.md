@@ -29,7 +29,7 @@ Both graph-level and operator-level optimization contribute
 to this speed up.
 
 {:center: style="text-align: center"}
-![image](/images/opt-mali/end2end.png/){: width="95%"}
+![image](/images/opt-mali/end2end.png){: width="95%"}
 {:center}
 
 <center> Figure. Inference Speed of Different Backends on ImageNet</center> <p></p>
@@ -391,7 +391,7 @@ We use NNVM and TVM to do end-to-end compilation.
 ## Performance
 
 {:center: style="text-align: center"}
-![image](/images/opt-mali/end2end.png/){: width="95%"}
+![image](/images/opt-mali/end2end.png){: width="95%"}
 {:center}
 
 <center> Figure 2. Inference Speed of Different Backends on ImageNet</center> <p></p>
