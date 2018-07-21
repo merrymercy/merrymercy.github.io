@@ -14,6 +14,6 @@ Tianqi Chen, Thierry Moreau, Ziheng Jiang, **Lianmin Zheng**, Eddie Yan, Meghan 
 _OSDI 2018_
 
 ### [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600)
-**Lianmin Zheng**, Jiacheng Yang, Han Cai, Weinan Zhang, Jun Wang, Yong Yu  
+**Lianmin Zheng***, Jiacheng Yang*, Han Cai, Weinan Zhang, Jun Wang, Yong Yu  
 _AAAI 2018 (demo paper)_
 
