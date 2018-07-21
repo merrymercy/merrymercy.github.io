@@ -5,9 +5,16 @@ author_profile: true
 ---
 
 ---
+# [TVM](https://tvm.ai)
+TVM is an open deep learning compiler stack for cpu, gpu and specialized accelerators.  
+I contributed the machine learning based auto-tuning module for this project.
+
+---
 # [MAgent](https://github.com/geek-ai/MAgent)
 MAgent is a many-agent reinforcement learning platform.  
 It aims at taking the number of agents in deep reinforcment learning into million scale.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HCSm0kVolqI" frameborder="1" allowfullscreen></iframe>
 
 ---
 # [Compiler Malic](https://github.com/merrymercy/compiler2017)
@@ -18,7 +25,7 @@ I wrote 10000+ lines for it in 2 months.
 ---
 # [goGFS](https://github.com/merrymercy/goGFS)
 goGFS is a simple implementation of the Google File System (GFS) in golang.  
-It is tested with a small cluster of inexpensive machines (1 master, 12 chunkservers and 12 clients).  
+It is tested with a small cluster of inexpensive machines (1 master, 12 chunkservers and 12 clients).
 Fault tolerance is provided.  
 
 ---

@@ -6,6 +6,9 @@ redirect_from:
    - /about
 ---
 
-I am a thrid-year undergradate student at ACM Honoured Class, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). Currently, I am a member of [Apex Data and Knowledge Management Lab](http://apex.sjtu.edu.cn), advised by Porf.[Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net). I am working on projects about multi-agent reinforcement learning.
+I am a fourth-year undergradate student at ACM Honoured Class, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn).
+Currently, I am a research intern at University of Washington, under the supervision of Prof. [Luiz Ceze](https://homes.cs.washington.edu/~luisceze/).
+Previsouly, I was fortunate to be a member of [Apex Lab](http://apex.sjtu.edu.cn), where I am advised by Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 
-I am intersted in building various computer systems and machine learning.
+Now I am working on [TVM](https://tvm.ai), an exciting compiler for optimizing deep learning workloads. I work closely with [our team](http://saml.cs.washington.edu/projects/tvm.html) in this project.
+
