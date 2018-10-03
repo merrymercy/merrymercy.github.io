@@ -1,0 +1,17 @@
+Backend,   ACL-neon, mxnet + openblas, ACL-mali, TVM-mali, ACL-mali-fp16, TVM-mali-fp16
+vgg16,     4.1027,  3.0250,           1.6446,   1.2926,   0.9694,        0.6896
+mobilenet, 0,        0.2914,           0.1709,   0.0767,   0,             0.0479
+resnet18,  0,        0.3977,           0,        0.2041,   0,             0.1183
+
+
+Backend,   ACL-neon, mxnet + openblas, ACL-mali, TVM-mali, ACL-mali-fp16, TVM-mali-fp16
+vgg16,     4.1027,  3.0250,           1.6446,   1.2926,   0.9694,        0.6896
+
+
+Backend,   mxnet + openblas, ACL-mali, TVM-mali, TVM-mali-fp16
+mobilenet, 0.2914,           0.1709,   0.0767,   0.0479
+
+
+Backend,   mxnet + openblas, TVM-mali, TVM-mali-fp16
+resnet18,  0.3977,           0.2041,   0.1183
+

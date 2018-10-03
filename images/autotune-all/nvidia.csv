@@ -1,0 +1,6 @@
+Network      , PlaidML, MXNet + cuDNN 7.1 , MXNet + TensorRT 4.0, TVM 
+resnet-50    , 15.84  , 4.69              , 2.68 , 2.69 
+mobilenet    , 7.08   , 1.53              , 0.89 , 0.62 
+vgg-19       , 11.16  , 5.97              , 4.56 , 4.56 
+inception_v3 , 25.83  , 11.10             , 6.30 , 5.75 
+densenet-121 , 44.73  , 7.34              , 4.12 , 3.56

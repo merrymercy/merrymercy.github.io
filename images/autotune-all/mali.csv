@@ -1,0 +1,4 @@
+Network,   ARM Compute Library, TVM
+resnet-18, 138.0,              125.77
+mobilenet, 145.2,              78.39
+vgg-16,    634.3,              676.56

@@ -10,7 +10,7 @@ Tianqi Chen, **Lianmin Zheng**, Eddie Yan, Ziheng Jiang, Thierry Moreau, Luis Ce
 _Arxiv 1805.08166_
 
 ### [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
-Tianqi Chen, Thierry Moreau, Ziheng Jiang, **Lianmin Zheng**, Eddie Yan, Meghan Cowan, Haichen Shen, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy
+Tianqi Chen, Thierry Moreau, Ziheng Jiang, **Lianmin Zheng**, Eddie Yan, Meghan Cowan, Haichen Shen, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy  
 _OSDI 2018_
 
 ### [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600)

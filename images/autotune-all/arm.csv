@@ -1,0 +1,6 @@
+Network,         NCNN,    TVM
+resnet-18,       416.54,  314.4
+mobilenet,       152.31,  122.3
+mobilenet_v2,    194.50,  103.9
+squeezenet_v1.1, 108.96,  94.2
+vgg-16,          1902.28, 1801.4
