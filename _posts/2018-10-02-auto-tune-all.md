@@ -123,9 +123,9 @@ As shown in the figure below, TVM outperforms it for all networks on Rasbperry P
 
 ### Mali GPU
 
-[ARM Compute Library](https://github.com/ARM-software/ComputeLibrary) is a vendor provided library that supports Mali GPU (OpenCL) well.
-According to the results, TVM provides stronger performance in ResNet and MobileNet due to advantages in convolutional layers.
-TVM lags behind a bit on vgg-16 because vgg-16 is an old and huge network and has several large dense layers.
+[ARM Compute Library](https://github.com/ARM-software/ComputeLibrary) is a vendor provided library that supports Mali GPU (OpenCL) well, so it is selected as baseline.
+According to the results, TVM outperforms ARMComputeLib on most networks for single precision (fp32) and achieves the best performance on this board by using half precision (fp16).
+TVM shows better scalibility when shifting from fp32 to fp16, while ARMComuteLib fails to optimize for fp16 (using fp16 is even slower in some cases).
 
 ![image](/images/autotune-all/mali.png){: width="90%"}
 
@@ -168,10 +168,12 @@ The reported numbers are time costs per image in millisecond.
 | Raspberry Pi 3B | 609.5 | 2070.4 | 122.2 | 103.7 | 322.5 | 725.8 | 185.1 | 94.1 | 1759.6 | 2118.6 |
 | Xilinx PYNQ | 2888.3 | 9709.1 | 723.5 | 514.3 | 1234.6 | 3580.5 | 909.9 | 477.3 | <sup>-(Note 1)</sup>  | - |
 | **Mali GPU** |
-| Mali-T860 | 410.9 | 783.1 | 75.4 | 70.8 | 128.6 | 352.9 | 106.2 | 58.0 | 679.5 | 805.3 |
+| Mali-T860 MP4 | 410.9 | 783.1 | 75.4 | 70.8 | 128.6 | 352.9 | 106.2 | 58.0 | 679.5 | 805.3 |
+| Mali-T860 MP4 (fp16) | 410.9 | 783.1 | 75.4 | 70.8 | 128.6 | 352.9 | 106.2 | 58.0 | 679.5 | 805.3 |
 | **NVIDIA GPU** |
 | GTX 1080 Ti | 3.6 | 5.8 | 0.6 | - <sup>(Note 2) </sup> | - | 2.7 | - | - | 4.0 | 4.6 |
 | GTX TITAN X | 5.8 | 9.7 | 1.0 | - | - | 4.3 | - | - | 6.4 | 7.5 |
+| Tegra X2    | 26.4 | 45.4 | 5.1 | - | - | 25.8 | - | - | 57.2 | 67.6 |
 | **AMD GPU** |
 | AMD Vega FE | 5.7 | 8.8 | 1.0 | - | - | 4.5 | - | - | 5.9 | 7.0 |
 | |
