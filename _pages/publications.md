@@ -7,7 +7,7 @@ author_profile: true
 ---
 ### [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166) 
 Tianqi Chen, **Lianmin Zheng**, Eddie Yan, Ziheng Jiang, Thierry Moreau, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy  
-_Arxiv 1805.08166_
+_NIPS 2018_
 
 ### [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
 Tianqi Chen, Thierry Moreau, Ziheng Jiang, **Lianmin Zheng**, Eddie Yan, Meghan Cowan, Haichen Shen, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy  
