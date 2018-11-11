@@ -88,6 +88,8 @@
   pdfsubject={},
   pdfkeywords={}
 }
+\newcommand{\Colorhref}[3][awesome-skyblue]{\href{#2}{\color{#1}{#3}}}
+\newcommand{\Link}[1]{\footnotesize{~ \href{#1}{\color{awesome-skyblue}{(Link)}}}}
 
 
 %-------------------------------------------------------------------------------
