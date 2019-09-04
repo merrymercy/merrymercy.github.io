@@ -3,7 +3,9 @@
 
 Top navigation bar : `_data/navigation.yml`
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## To run locally 
+
+### Ubuntu
 
 * Clone the repository and made updates as detailed above
 * Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
@@ -11,3 +13,16 @@ Top navigation bar : `_data/navigation.yml`
 * Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 * Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+### Mac
+* Install
+```
+sudo brew install rbenv
+sudo gem install bundle
+bundle clean
+bundle install
+```
+* Serve
+```
+bundle exec jekyll serve
+```
+ 
