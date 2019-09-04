@@ -6,8 +6,13 @@ redirect_from:
    - /about
 ---
 
-I am a fourth-year undergraduate student at ACM Honors Class, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn).
-I will join the Ph.D. program at UC Berkeley this Fall.
+# About
+I am a first-year Ph.D. student in the [EECS department](https://eecs.berkeley.edu/) at UC Berkeley, advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph Gonzales](https://people.eecs.berkeley.edu/~jegonzal/).
 
-Now I am working on [TVM](https://tvm.ai), an exciting compiler for optimizing deep learning workloads. I work closely with [our team](http://sampl.cs.washington.edu/projects/tvm.html) in this project.
+My research interests lie on the intersection of machine learning and programming systems, especially compiler optimizations and program synthesis. I work on both directions: using machine learning to automate the systems and building systems to accelerate machine learning.
+
+I received my B.S degree in computer science from ACM Honors Class, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). 
+I was a research intern at University of Washington, working with [Tianqi Chen](https://homes.cs.washington.edu/~tqchen/) and [Luis Ceze](https://homes.cs.washington.edu/~luisceze/).
+I am a PMC member of [Apache TVM](https://tvm.ai/).
+
 
