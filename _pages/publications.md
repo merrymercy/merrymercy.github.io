@@ -9,6 +9,10 @@ author_profile: true
 See the full list on  [Google Scholar](https://scholar.google.com/citations?user=_7Q8uIYAAAAJ&hl=en)  
 
 ---
+### [ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training](https://arxiv.org/abs/2104.14129)
+Jianfei Chen \*, **Lianmin Zheng** \*, Zhewei Yao, Dequan Wang, Ion Stoica, Michael W. Mahoney, Joseph E. Gonzalez  
+_ICML 2021_
+
 ### [Ansor: Generating High-Performance Tensor Programs for Deep Learning](https://arxiv.org/abs/2006.06762)
 **Lianmin Zheng**, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica  
 _OSDI 2020_

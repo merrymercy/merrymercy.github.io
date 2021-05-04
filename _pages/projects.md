@@ -8,7 +8,7 @@ author_profile: true
 # [TVM](https://tvm.ai)
 TVM is an open deep learning compiler stack for cpu, gpu and specialized accelerators.  
 I lead the effort to generate high-performance programs with machine learning techniques.
-Checkout the tutorials on [template-based autotvm](https://tvm.apache.org/docs/tutorials/index.html#autotvm-template-based-auto-tuning)
+Check out the tutorials on [template-based autotvm](https://tvm.apache.org/docs/tutorials/index.html#autotvm-template-based-auto-tuning)
 and [template-free auto-scheduler (a.k.a Ansor)](https://tvm.apache.org/docs/tutorials/index.html#autoscheduler-template-free-auto-scheduling).
 
 ---
