@@ -1,0 +1,4 @@
+Network,   ARM Compute Library V18.05, ARM Compute Library V18.05 fp16, TVM   , TVM fp16
+resnet-18, 138.0,                      166.3,                           128.6 , 100.2
+mobilenet, 145.2,                      101.5,                           75.4  , 46.2
+vgg-16,    638.1,                      1071.2,                           679.5 , 323.2

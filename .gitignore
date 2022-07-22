@@ -1,2 +1,9 @@
 _site/
+.DS_Store
+Gemfile.lock
 
+files/awesome-cv/cv.aux
+files/awesome-cv/cv.log
+files/awesome-cv/cv.out
+files/awesome-cv/cv.pdf
+files/awesome-cv/cv.synctex.gz
