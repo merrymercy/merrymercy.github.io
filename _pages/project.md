@@ -7,7 +7,7 @@ author_profile: true
 ---
 # [Alpa](https://github.com/alpa-projects/alpa)
 Alpa automates model-parallel training of large deep learning (DL) models by generating execution plans that unify data, operator, and pipeline parallelism.
-Alpa makes it simple to train and serve large models like GPT-3. Checkout the tutorials [here](https://alpa.ai/)
+Alpa makes it simple to train and serve large models like GPT-3. Checkout the tutorials [here](https://alpa.ai/).
 
 ---
 # [TVM](https://tvm.ai)
