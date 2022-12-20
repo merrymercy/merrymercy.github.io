@@ -12,7 +12,7 @@ author_profile: true
 See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_7Q8uIYAAAAJ&hl=en)  
 
 ---
-**TensorIR: An Abstraction for Automatic Tensorized Program Optimization**
+**TensorIR: An Abstraction for Automatic Tensorized Program Optimization**  
 Siyuan Feng, Bohan Hou, Hongyi Jin, Wuwei Lin, Junru Shao, Ruihang Lai, Zihao Ye, **Lianmin Zheng**, Cody Hao Yu, Yong Yu, Tianqi Chen  
 <span style="color:green; font-style:italic">ASPLOS 2023</span>  
 | [paper](https://arxiv.org/abs/2207.04296)
