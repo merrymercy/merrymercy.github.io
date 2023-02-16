@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 I am a Ph.D. student in the [EECS department](https://eecs.berkeley.edu/) at UC Berkeley, advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
-My research interests include large-scale machine learning systems, compilers, parallel computing and program synthesis.
+My research interests include machine learning systems, compilers and distributed systems.
 
 I received my B.S degree in computer science from ACM Honors Class, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). 
 I was a research intern at Amazon Web Services, OctoML, and University of Washington. I received the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) in 2022.
