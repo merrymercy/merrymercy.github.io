@@ -10,9 +10,17 @@ redirect_from:
 
 # About
 I am a Ph.D. student in the [EECS department](https://eecs.berkeley.edu/) at UC Berkeley, advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
-My research interests include machine learning systems, compilers and distributed systems.
+My research interests include machine learning systems, compilers, and distributed systems.
+I received my B.S. degree in computer science from ACM Honors Class, Shanghai Jiao Tong University.
+I was a research intern at Amazon Web Services, OctoML, and University of Washington.
+I am fortunate to be awarded the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/).
 
-I received my B.S degree in computer science from ACM Honors Class, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). 
-I was a research intern at Amazon Web Services, OctoML, and University of Washington. I received the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) in 2022.
+# Research
+- Systems for training and serving large models
+   - Projects: [Alpa](https://github.com/alpa-projects/alpa)
+   - Publications: [OSDI 22](https://arxiv.org/abs/2201.12023), [MLSys 23](https://arxiv.org/abs/2211.05322), [arXiv 23](https://arxiv.org/abs/2302.11665).
+- Tensor program optimizations
+   - Projects: [TVM](https://tvm.apache.org/)
+   - Publications: [OSDI 20](https://arxiv.org/abs/2006.06762), [NeurIPS 21](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/a684eceee76fc522773286a895bc8436-Abstract-round1.html), [OSDI 18](https://arxiv.org/abs/1802.04799), [NeurIPS 20](https://arxiv.org/pdf/1805.08166.pdf), [ASPLOS 23](https://arxiv.org/abs/2207.04296).
 
-Take a look at [Alpa](https://github.com/alpa-projects/alpa), our recently-released system for automatic model-parallel training and serving of large models.
+[More publications](https://lmzheng.net/publications/)
