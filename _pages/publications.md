@@ -12,6 +12,19 @@ author_profile: true
 See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_7Q8uIYAAAAJ&hl=en)  
 
 ---
+
+**High-Throughput Generative Inference of Large Language Models with a Single GPU**  
+Ying Sheng, **Lianmin Zheng**, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang  
+<span style="color:green; font-style:italic">ICML 2023</span>  
+| [paper](https://arxiv.org/abs/2303.06865)
+| [code](https://github.com/FMInference/FlexGen) |
+
+**AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving**  
+Zhuohan Li\*, **Lianmin Zheng**\*, Yinmin Zhong\*, Vincent Liu, Ying Sheng, Xin Jin, Yanping Huang, Zhifeng Chen, Hao Zhang, Joseph E Gonzalez, Ion Stoica  
+<span style="color:green; font-style:italic">OSDI 2023</span>  
+| [paper](https://arxiv.org/abs/2302.11665)
+| [code](https://github.com/alpa-projects/mms/tree/main) |
+
 **TensorIR: An Abstraction for Automatic Tensorized Program Optimization**  
 Siyuan Feng, Bohan Hou, Hongyi Jin, Wuwei Lin, Junru Shao, Ruihang Lai, Zihao Ye, **Lianmin Zheng**, Cody Hao Yu, Yong Yu, Tianqi Chen  
 <span style="color:green; font-style:italic">ASPLOS 2023</span>  
