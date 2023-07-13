@@ -17,7 +17,7 @@ I am fortunate to be awarded the [Meta PhD Fellowship](https://research.facebook
 
 # Research
 - Systems for training and serving large models
-   - Projects: [Alpa](https://github.com/alpa-projects/alpa), [FastChat](https://github.com/lm-sys/FastChat), [FlexGen](https://github.com/FMInference/FlexGen)
+   - Projects: [Alpa](https://github.com/alpa-projects/alpa), [FastChat (Vicuna)](https://github.com/lm-sys/FastChat), [FlexGen](https://github.com/FMInference/FlexGen)
    - Publications: [OSDI 22](https://arxiv.org/abs/2201.12023), [OSDI 23](https://arxiv.org/abs/2302.11665), [ICML 23](https://arxiv.org/abs/2303.06865), [MLSys 23](https://arxiv.org/abs/2211.05322).
 - Tensor program optimizations
    - Projects: [TVM](https://tvm.apache.org/)
