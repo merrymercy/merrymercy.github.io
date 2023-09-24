@@ -15,9 +15,14 @@ I received my B.S. degree in computer science from ACM Honors Class, Shanghai Ji
 I was a research intern at Amazon Web Services, OctoML, and University of Washington.
 I am fortunate to be awarded the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/).
 
+Currently, I am leading the [LMSYS.org](https://lmsys.org/) effort to advance open large language models.
+
 # Research
+- Open models, benchmarks, and datasets for large language models
+   - Projects: [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/), [Chatbot Arena](https://chat.lmsys.org/), [LMSYS-Chat-1M](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
+   - Publications: [NeurIPS 23](https://arxiv.org/abs/2306.05685), [Preprint 23](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
 - Systems for training and serving large models
-   - Projects: [FastChat (Vicuna)](https://github.com/lm-sys/FastChat), [Alpa](https://github.com/alpa-projects/alpa), [FlexGen](https://github.com/FMInference/FlexGen)
+   - Projects: [FastChat](https://github.com/lm-sys/FastChat), [Alpa](https://github.com/alpa-projects/alpa), [FlexGen](https://github.com/FMInference/FlexGen)
    - Publications: [OSDI 22](https://arxiv.org/abs/2201.12023), [OSDI 23](https://arxiv.org/abs/2302.11665), [ICML 23](https://arxiv.org/abs/2303.06865), [MLSys 23](https://arxiv.org/abs/2211.05322).
 - Tensor program optimizations
    - Projects: [TVM](https://tvm.apache.org/)
