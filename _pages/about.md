@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About
-I am a Ph.D. student in the [EECS department](https://eecs.berkeley.edu/) at UC Berkeley, advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
+I am a final-year Ph.D. student in the [EECS department](https://eecs.berkeley.edu/) at UC Berkeley, advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
 My research interests include machine learning systems, large language models, compilers, and distributed systems.
 I received my B.S. degree in computer science from ACM Honors Class, Shanghai Jiao Tong University.
 I was a research intern at Amazon Web Services, OctoML, and University of Washington.
