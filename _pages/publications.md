@@ -17,8 +17,8 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 **Lianmin Zheng** \*, Wei-Lin Chiang \*, Ying Sheng \*, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica  
 <span style="color:green; font-style:italic">NeurIPS 2023 (Datasets and Benchmarks Track)</span>  
 | [paper](https://arxiv.org/abs/2306.05685)
-| [blog 1](https://lmsys.org/blog/2023-03-30-vicuna/)
-| [blog 2](https://lmsys.org/blog/2023-06-22-leaderboard/)
+| [Vicuna Blog](https://lmsys.org/blog/2023-03-30-vicuna/)
+| [MT-Bench Blog](https://lmsys.org/blog/2023-06-22-leaderboard/)
 | [code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |
 
 **High-Throughput Generative Inference of Large Language Models with a Single GPU**  
@@ -32,6 +32,12 @@ Zhuohan Li \*, **Lianmin Zheng** \*, Yinmin Zhong \*, Vincent Liu, Ying Sheng, X
 <span style="color:green; font-style:italic">OSDI 2023</span>  
 | [paper](https://arxiv.org/abs/2302.11665)
 | [code](https://github.com/alpa-projects/mms/tree/main) |
+
+**Efficient Memory Management for Large Language Model Serving with PagedAttention**  
+Woosuk Kwon \*, Zhuohan Li \*, Siyuan Zhuang, Ying Sheng, **Lianmin Zheng**, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica
+<span style="color:green; font-style:italic">SOSP 2023</span>  
+| [paper](https://arxiv.org/abs/2309.06180)
+| [code](https://github.com/vllm-project/vllm) |
 
 **TensorIR: An Abstraction for Automatic Tensorized Program Optimization**  
 Siyuan Feng, Bohan Hou, Hongyi Jin, Wuwei Lin, Junru Shao, Ruihang Lai, Zihao Ye, **Lianmin Zheng**, Cody Hao Yu, Yong Yu, Tianqi Chen  
