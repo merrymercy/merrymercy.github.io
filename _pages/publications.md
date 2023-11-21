@@ -34,7 +34,7 @@ Zhuohan Li \*, **Lianmin Zheng** \*, Yinmin Zhong \*, Vincent Liu, Ying Sheng, X
 | [code](https://github.com/alpa-projects/mms/tree/main) |
 
 **Efficient Memory Management for Large Language Model Serving with PagedAttention**  
-Woosuk Kwon \*, Zhuohan Li \*, Siyuan Zhuang, Ying Sheng, **Lianmin Zheng**, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica
+Woosuk Kwon \*, Zhuohan Li \*, Siyuan Zhuang, Ying Sheng, **Lianmin Zheng**, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica  
 <span style="color:green; font-style:italic">SOSP 2023</span>  
 | [paper](https://arxiv.org/abs/2309.06180)
 | [code](https://github.com/vllm-project/vllm) |
