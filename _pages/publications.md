@@ -14,7 +14,7 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 ---
 
 **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**  
-**Lianmin Zheng** \*, Wei-Lin Chiang \*, Ying Sheng \*, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica  
+**Lianmin Zheng** \*, Wei-Lin Chiang \*, Ying Sheng \*, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica  
 <span style="color:green; font-style:italic">NeurIPS 2023 (Datasets and Benchmarks Track)</span>  
 | [paper](https://arxiv.org/abs/2306.05685)
 | [Vicuna Blog](https://lmsys.org/blog/2023-03-30-vicuna/)
