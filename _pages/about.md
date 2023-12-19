@@ -13,7 +13,7 @@ I am a final-year Ph.D. student in the [EECS department](https://eecs.berkeley.e
 My research interests include machine learning systems, large language models, compilers, and distributed systems.
 I received my B.S. degree in computer science from ACM Honors Class, Shanghai Jiao Tong University.
 I was a research intern at Amazon Web Services, OctoML, and University of Washington.
-I am fortunate to be awarded the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/).
+I am fortunate to be awarded the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) and [a16z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/).
 
 Currently, I am leading the [LMSYS.org](https://lmsys.org/) effort to advance open large language models.
 
