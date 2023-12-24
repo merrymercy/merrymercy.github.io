@@ -21,6 +21,31 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 | [MT-Bench Blog](https://lmsys.org/blog/2023-06-22-leaderboard/)
 | [code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |
 
+**Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning**  
+**Lianmin Zheng** \*, Zhuohan Li \*, Hao Zhang \*, Yonghao Zhuang, Zhifeng Chen, Yanping Huang, Yida Wang, Yuanzhong Xu, Danyang Zhuo, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica  
+<span style="color:green; font-style:italic">OSDI 2022</span>  
+| [paper](https://arxiv.org/abs/2201.12023)
+| [code](https://github.com/alpa-projects/alpa)
+| [slides](https://docs.google.com/presentation/d/1CQ4S1ff8yURk9XmL5lpQOoMMlsjw4m0zPS6zYDcyp7Y/edit?usp=sharing)
+| [talk](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) |
+
+**Ansor: Generating High-Performance Tensor Programs for Deep Learning**  
+**Lianmin Zheng**, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica  
+<span style="color:green; font-style:italic">OSDI 2020</span>  
+| [paper](https://arxiv.org/abs/2006.06762)
+| [code](https://github.com/apache/tvm)
+| [tutorial](https://tvm.apache.org/docs/how_to/tune_with_autoscheduler/index.html)
+| [slides](https://www.usenix.org/conference/osdi20/presentation/zheng)
+| [talk](https://www.usenix.org/conference/osdi20/presentation/zheng) |
+
+**TenSet: A Large-scale Program Performance Dataset for Learned Tensor Compilers**  
+**Lianmin Zheng** \*, Ruochen Liu \*, Junru Shao, Tianqi Chen, Joseph Gonzalez, Ion Stoica, Ameer Haj-Ali  
+<span style="color:green; font-style:italic">NeurIPS 2021 (Datasets and Benchmarks Track)</span>  
+| [paper](https://nips.cc/virtual/2021/poster/22738)
+| [code](https://github.com/tlc-pack/tenset)
+| [slides](https://nips.cc/virtual/2021/poster/22738)
+| [talk](https://nips.cc/virtual/2021/poster/22738) |
+
 **High-Throughput Generative Inference of Large Language Models with a Single GPU**  
 Ying Sheng, **Lianmin Zheng**, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang  
 <span style="color:green; font-style:italic">ICML 2023</span>  
@@ -45,21 +70,10 @@ Siyuan Feng, Bohan Hou, Hongyi Jin, Wuwei Lin, Junru Shao, Ruihang Lai, Zihao Ye
 | [paper](https://arxiv.org/abs/2207.04296)
 | [code](https://github.com/apache/tvm) |
 
-**Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning**  
-**Lianmin Zheng** \*, Zhuohan Li \*, Hao Zhang \*, Yonghao Zhuang, Zhifeng Chen, Yanping Huang, Yida Wang, Yuanzhong Xu, Danyang Zhuo, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica  
-<span style="color:green; font-style:italic">OSDI 2022</span>  
-| [paper](https://arxiv.org/abs/2201.12023)
-| [code](https://github.com/alpa-projects/alpa)
-| [slides](https://docs.google.com/presentation/d/1CQ4S1ff8yURk9XmL5lpQOoMMlsjw4m0zPS6zYDcyp7Y/edit?usp=sharing)
-| [talk](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) |
-
-**TenSet: A Large-scale Program Performance Dataset for Learned Tensor Compilers**  
-**Lianmin Zheng** \*, Ruochen Liu \*, Junru Shao, Tianqi Chen, Joseph Gonzalez, Ion Stoica, Ameer Haj-Ali  
-<span style="color:green; font-style:italic">NeurIPS 2021 (Datasets and Benchmarks Track)</span>  
-| [paper](https://nips.cc/virtual/2021/poster/22738)
-| [code](https://github.com/tlc-pack/tenset)
-| [slides](https://nips.cc/virtual/2021/poster/22738)
-| [talk](https://nips.cc/virtual/2021/poster/22738) |
+**Towards Optimal Caching and Model Selection for Large Model Inference**  
+Banghua Zhu, Ying Sheng, Lianmin Zheng, Clark Barrett, Michael I. Jordan, Jiantao Jiao  
+<span style="color:green; font-style:italic">NeurIPS 2023</span>  
+| [paper](https://arxiv.org/abs/2306.02003) |  
 
 **ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training**  
 Jianfei Chen \*, **Lianmin Zheng** \*, Zhewei Yao, Dequan Wang, Ion Stoica, Michael W. Mahoney, Joseph E. Gonzalez  
@@ -68,15 +82,6 @@ Jianfei Chen \*, **Lianmin Zheng** \*, Zhewei Yao, Dequan Wang, Ion Stoica, Mich
 | [code](https://github.com/ucbrise/actnn)
 | [slides](https://icml.cc/virtual/2021/poster/9443)
 | [talk](https://icml.cc/virtual/2021/poster/9443) |
-
-**Ansor: Generating High-Performance Tensor Programs for Deep Learning**  
-**Lianmin Zheng**, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica  
-<span style="color:green; font-style:italic">OSDI 2020</span>  
-| [paper](https://arxiv.org/abs/2006.06762)
-| [code](https://github.com/apache/tvm)
-| [tutorial](https://tvm.apache.org/docs/how_to/tune_with_autoscheduler/index.html)
-| [slides](https://www.usenix.org/conference/osdi20/presentation/zheng)
-| [talk](https://www.usenix.org/conference/osdi20/presentation/zheng) |
 
 **A Hardware-Software Blueprint for Flexible Deep Learning Specialization**  
 Thierry Moreau, Tianqi Chen, Luis Vega, Jared Roesch, Eddie Yan, **Lianmin Zheng**, Josh Fromm, Ziheng Jiang, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy  
