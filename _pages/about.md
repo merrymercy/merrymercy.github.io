@@ -13,7 +13,7 @@ I am a final-year Ph.D. student in the [EECS department](https://eecs.berkeley.e
 My research interests include machine learning systems, large language models, compilers, and distributed systems.
 I am fortunate to be awarded the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) and [a16z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/) for my innovative research and impactful open source projects.
 
-Please check out our [LMSYS.org](https://lmsys.org/) effort to advance open large language models. We built open models with millions of downloads, crowdsource platforms with millions of users, and systems that are orders of magnitude faster.
+Please check out our [LMSYS.org](https://lmsys.org/) effort on advancing open large language models. We built open models with millions of downloads, crowdsource platforms with millions of users, and systems that are orders of magnitude faster.
 
 # Research
 - Systems for training and serving large models
