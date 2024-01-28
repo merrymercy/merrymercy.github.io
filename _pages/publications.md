@@ -13,6 +13,18 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 
 ---
 
+**Efficiently Programming Large Language Models using SGLang**  
+**Lianmin Zheng** \*, Liangsheng Yin, Zhiqiang Xie, Jeff Huang, Chuyue Sun, Cody Hao Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph E. Gonzalez, Clark Barrett, **Ying Sheng** \*  
+<span style="color:green; font-style:italic">preprint 2024</span>  
+| [paper](https://arxiv.org/abs/2312.07104)
+| [code](https://github.com/sgl-project/sglang) |  
+
+**LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset**  
+**Lianmin Zheng** \*, Wei-Lin Chiang \*, Ying Sheng, Tianle Li, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zhuohan Li, Zi Lin, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  
+<span style="color:green; font-style:italic">ICLR 2024 (spotlight)</span>  
+| [paper](https://arxiv.org/abs/2309.11998)
+| [dataset](https://huggingface.co/datasets/lmsys/lmsys-chat-1m) |  
+
 **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**  
 **Lianmin Zheng** \*, Wei-Lin Chiang \*, Ying Sheng \*, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica  
 <span style="color:green; font-style:italic">NeurIPS 2023 (Datasets and Benchmarks Track)</span>  
@@ -48,7 +60,7 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 
 **High-Throughput Generative Inference of Large Language Models with a Single GPU**  
 Ying Sheng, **Lianmin Zheng**, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang  
-<span style="color:green; font-style:italic">ICML 2023</span>  
+<span style="color:green; font-style:italic">ICML 2023 (oral)</span>  
 | [paper](https://arxiv.org/abs/2303.06865)
 | [code](https://github.com/FMInference/FlexGen) |
 
@@ -77,7 +89,7 @@ Banghua Zhu, Ying Sheng, Lianmin Zheng, Clark Barrett, Michael I. Jordan, Jianta
 
 **ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training**  
 Jianfei Chen \*, **Lianmin Zheng** \*, Zhewei Yao, Dequan Wang, Ion Stoica, Michael W. Mahoney, Joseph E. Gonzalez  
-<span style="color:green; font-style:italic">ICML 2021</span>  
+<span style="color:green; font-style:italic">ICML 2021 (long talk)</span>  
 | [paper](https://arxiv.org/abs/2104.14129)
 | [code](https://github.com/ucbrise/actnn)
 | [slides](https://icml.cc/virtual/2021/poster/9443)
@@ -91,7 +103,7 @@ Thierry Moreau, Tianqi Chen, Luis Vega, Jared Roesch, Eddie Yan, **Lianmin Zheng
 
 **Learning to Optimize Tensor Programs**  
 Tianqi Chen, **Lianmin Zheng**, Eddie Yan, Ziheng Jiang, Thierry Moreau, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy  
-<span style="color:green; font-style:italic">NeurIPS 2018</span>  
+<span style="color:green; font-style:italic">NeurIPS 2018 (spotlight)</span>  
 | [paper](https://arxiv.org/abs/1805.08166)
 | [code](https://github.com/apache/tvm)
 | [tutorial](https://tvm.apache.org/docs/how_to/tune_with_autotvm/index.html) |
