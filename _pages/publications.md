@@ -83,7 +83,7 @@ Siyuan Feng, Bohan Hou, Hongyi Jin, Wuwei Lin, Junru Shao, Ruihang Lai, Zihao Ye
 | [code](https://github.com/apache/tvm) |
 
 **Towards Optimal Caching and Model Selection for Large Model Inference**  
-Banghua Zhu, Ying Sheng, Lianmin Zheng, Clark Barrett, Michael I. Jordan, Jiantao Jiao  
+Banghua Zhu, Ying Sheng, **Lianmin Zheng**, Clark Barrett, Michael I. Jordan, Jiantao Jiao  
 <span style="color:green; font-style:italic">NeurIPS 2023</span>  
 | [paper](https://arxiv.org/abs/2306.02003) |  
 
