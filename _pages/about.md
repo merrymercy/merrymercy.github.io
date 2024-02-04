@@ -13,12 +13,12 @@ I am a final-year Ph.D. student in the [EECS department](https://eecs.berkeley.e
 My research interests include machine learning systems, large language models, compilers, and distributed systems.
 I am fortunate to be awarded the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) and [a16z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/) for my innovative research and impactful open source projects.
 
-Please check out our [LMSYS.org](https://lmsys.org/) effort on advancing open large language models. We built open models with millions of downloads, crowdsource platforms with millions of users, and systems that are orders of magnitude faster.
+Please check out our [LMSYS.org](https://lmsys.org/) effort on advancing open large language models. We built open models with <u>millions of downloads</u>, crowdsource platforms with <u>millions of users</u>, and systems that are <u>orders of magnitude</u> faster.
 
 # Research
 - Systems for training and serving large models
    - Projects: [FastChat](https://github.com/lm-sys/FastChat) (lead), [Alpa](https://github.com/alpa-projects/alpa) (lead), [FlexGen](https://github.com/FMInference/FlexGen), [vLLM](https://github.com/vllm-project/vllm)
-   - First-author publications: [Preprint 23](https://arxiv.org/abs/2312.07104), [OSDI 22](https://arxiv.org/abs/2201.12023), [OSDI 23](https://arxiv.org/abs/2302.11665)
+   - First-author publications: [Preprint 23](https://arxiv.org/abs/2312.07104), [OSDI 22](https://arxiv.org/abs/2201.12023), [OSDI 23](https://arxiv.org/abs/2302.11665), [ICML 21](https://arxiv.org/abs/2104.14129)
    - Other publications: [ICML 23](https://arxiv.org/abs/2303.06865), [SOSP 23](https://arxiv.org/abs/2309.06180), [MLSys 23](https://arxiv.org/abs/2211.05322)
 - Open models, benchmarks, and datasets for large language models
    - Projects: [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/) (lead), [Chatbot Arena](https://chat.lmsys.org/) (lead), [LMSYS-Chat-1M](https://huggingface.co/datasets/lmsys/lmsys-chat-1m) (lead)
