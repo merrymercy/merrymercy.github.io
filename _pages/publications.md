@@ -85,13 +85,13 @@ Siyuan Feng, Bohan Hou, Hongyi Jin, Wuwei Lin, Junru Shao, Ruihang Lai, Zihao Ye
 **Towards Optimal Caching and Model Selection for Large Model Inference**  
 Banghua Zhu, Ying Sheng, **Lianmin Zheng**, Clark Barrett, Michael I. Jordan, Jiantao Jiao  
 <span style="color:green; font-style:italic">NeurIPS 2023</span>  
-| [paper](https://arxiv.org/abs/2306.02003) |
+| [paper](https://arxiv.org/abs/2306.02003)
 | [code](https://github.com/Ying1123/llm-caching-multiplexing/tree/main) |
 
 **On Optimizing the Communication of Model Parallelism**  
 Yonghao Zhuang, Hexu Zhao, **Lianmin Zheng**, Zhuohan Li, Eric P. Xing, Qirong Ho, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  
 <span style="color:green; font-style:italic">MLSys 2023</span>  
-| [paper](https://arxiv.org/abs/2211.05322) |
+| [paper](https://arxiv.org/abs/2211.05322)
 | [code](https://github.com/alpa-projects/alpa/tree/mlsys23-artifact) |
 
 **ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training**  
