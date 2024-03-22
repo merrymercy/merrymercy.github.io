@@ -15,7 +15,7 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 
 **Efficiently Programming Large Language Models using SGLang**  
 **Lianmin Zheng** \*, Liangsheng Yin, Zhiqiang Xie, Jeff Huang, Chuyue Sun, Cody Hao Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph E. Gonzalez, Clark Barrett, Ying Sheng \*  
-<span style="color:green; font-style:italic">preprint 2023</span>  
+<span style="color:green; font-style:italic">Preprint 2023</span>  
 | [paper](https://arxiv.org/abs/2312.07104)
 | [code](https://github.com/sgl-project/sglang) |  
 
