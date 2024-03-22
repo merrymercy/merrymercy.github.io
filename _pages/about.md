@@ -19,7 +19,7 @@ Please check out our [LMSYS.org](https://lmsys.org/) effort on advancing open la
 - Systems for training and serving large models
    - Projects: [FastChat](https://github.com/lm-sys/FastChat) (lead), [Alpa](https://github.com/alpa-projects/alpa) (lead), [FlexGen](https://github.com/FMInference/FlexGen), [vLLM](https://github.com/vllm-project/vllm)
    - First-author publications: [Preprint 23](https://arxiv.org/abs/2312.07104), [OSDI 22](https://arxiv.org/abs/2201.12023), [OSDI 23](https://arxiv.org/abs/2302.11665), [ICML 21](https://arxiv.org/abs/2104.14129)
-   - Other publications: [ICML 23](https://arxiv.org/abs/2303.06865), [SOSP 23](https://arxiv.org/abs/2309.06180), [MLSys 23](https://arxiv.org/abs/2211.05322)
+   - Other publications: [ICML 23](https://arxiv.org/abs/2303.06865), [SOSP 23](https://arxiv.org/abs/2309.06180), [MLSys 23](https://arxiv.org/abs/2211.05322), [MLSys 24](https://arxiv.org/abs/2311.03285)
 - Open models, benchmarks, and datasets for large language models
    - Projects: [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/) (lead), [Chatbot Arena](https://chat.lmsys.org/) (lead), [LMSYS-Chat-1M](https://huggingface.co/datasets/lmsys/lmsys-chat-1m) (lead)
    - First-author publications: [NeurIPS 23](https://arxiv.org/abs/2306.05685), [ICLR 24](https://arxiv.org/abs/2309.11998), [Preprint 23](https://arxiv.org/abs/2311.04850)

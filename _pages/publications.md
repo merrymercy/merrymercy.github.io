@@ -15,7 +15,7 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 
 **Efficiently Programming Large Language Models using SGLang**  
 **Lianmin Zheng** \*, Liangsheng Yin, Zhiqiang Xie, Jeff Huang, Chuyue Sun, Cody Hao Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph E. Gonzalez, Clark Barrett, Ying Sheng \*  
-<span style="color:green; font-style:italic">preprint 2024</span>  
+<span style="color:green; font-style:italic">preprint 2023</span>  
 | [paper](https://arxiv.org/abs/2312.07104)
 | [code](https://github.com/sgl-project/sglang) |  
 
@@ -57,6 +57,12 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 | [code](https://github.com/tlc-pack/tenset)
 | [slides](https://nips.cc/virtual/2021/poster/22738)
 | [talk](https://nips.cc/virtual/2021/poster/22738) |
+
+**S-LoRA: Serving Thousands of Concurrent LoRA Adapters**  
+Ying Sheng, Shiyi Cao, Dacheng Li, Coleman Hooper, Nicholas Lee, Shuo Yang, Christopher Chou, Banghua Zhu, **Lianmin Zheng**, Kurt Keutzer, Joseph E. Gonzalez, Ion Stoica  
+<span style="color:green; font-style:italic">MLSys 2024</span>  
+| [paper](https://arxiv.org/abs/2311.03285)
+| [code](https://github.com/S-LoRA/S-LoRA) |
 
 **High-Throughput Generative Inference of Large Language Models with a Single GPU**  
 Ying Sheng, **Lianmin Zheng**, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang  
