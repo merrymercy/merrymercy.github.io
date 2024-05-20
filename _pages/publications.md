@@ -19,6 +19,12 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=_
 | [paper](https://arxiv.org/abs/2312.07104)
 | [code](https://github.com/sgl-project/sglang) |  
 
+**Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference**
+Wei-Lin Chiang \*, **Lianmin Zheng** \*, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez, Ion Stoica
+<span style="color:green; font-style:italic">ICML 2024</span>  
+| [paper](https://arxiv.org/abs/2403.04132)
+| [website](https://chat.lmsys.org/) |  
+
 **LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset**  
 **Lianmin Zheng** \*, Wei-Lin Chiang \*, Ying Sheng, Tianle Li, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zhuohan Li, Zi Lin, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  
 <span style="color:green; font-style:italic">ICLR 2024 (spotlight)</span>  
