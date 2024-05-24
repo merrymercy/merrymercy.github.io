@@ -17,7 +17,7 @@ Please check out our [LMSYS.org](https://lmsys.org/) effort on advancing open la
 
 # Research
 - Systems for training and serving large models
-   - Projects: [FastChat](https://github.com/lm-sys/FastChat) (lead), [SGLang](https://github.com/sgl-project/sglang/tree/main)(lead), [Alpa](https://github.com/alpa-projects/alpa) (lead), [FlexGen](https://github.com/FMInference/FlexGen), [vLLM](https://github.com/vllm-project/vllm)
+   - Projects: [FastChat](https://github.com/lm-sys/FastChat) (lead), [SGLang](https://github.com/sgl-project/sglang/tree/main) (lead), [Alpa](https://github.com/alpa-projects/alpa) (lead), [FlexGen](https://github.com/FMInference/FlexGen), [vLLM](https://github.com/vllm-project/vllm)
    - First-author publications: [Preprint 23](https://arxiv.org/abs/2312.07104), [OSDI 22](https://arxiv.org/abs/2201.12023), [OSDI 23](https://arxiv.org/abs/2302.11665), [ICML 21](https://arxiv.org/abs/2104.14129)
    - Other publications: [ICML 23](https://arxiv.org/abs/2303.06865), [SOSP 23](https://arxiv.org/abs/2309.06180), [MLSys 23](https://arxiv.org/abs/2211.05322), [MLSys 24](https://arxiv.org/abs/2311.03285)
 - Open large language models, benchmarks and datasets for large language models
