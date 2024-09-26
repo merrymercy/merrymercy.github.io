@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 # About
-I am a member of the technical staff at xAI. Previously, I completed my Ph.D. at UC Berkeley, where I was advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
+I am a member of technical staff at xAI. Previously, I completed my Ph.D. at UC Berkeley, where I was advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
 
 My research interests include machine learning systems, large language models, compilers, and distributed systems. I was honored to receive the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) and the [a16z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/) in recognition of my innovative research and impactful open-source projects.
 
-I also co-founded the non-profit organization [LMSYS.org](https://lmsys.org/) to advance open large language model research. We have developed open models with *millions of downloads*, crowdsourced platforms with *millions of users*, and systems that are *orders of magnitude* faster.
+I also co-founded the non-profit organization [LMSYS.org](https://lmsys.org/) to advance open large language model research. We have developed open models with <u>millions of downloads</u>, crowdsourced platforms with <u>millions of users</u>, and systems that are <u>orders of magnitude</u> faster.
 
 # Research
 - Systems for training and serving large models
