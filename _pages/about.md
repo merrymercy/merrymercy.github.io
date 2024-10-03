@@ -21,7 +21,7 @@ I also co-founded the non-profit organization [LMSYS.org](https://lmsys.org/) to
    - Projects: [SGLang](https://github.com/sgl-project/sglang/tree/main) (lead), [FastChat](https://github.com/lm-sys/FastChat) (lead), [Alpa](https://github.com/alpa-projects/alpa) (lead), [FlexGen](https://github.com/FMInference/FlexGen), [vLLM](https://github.com/vllm-project/vllm)
    - First-author publications: [NeurIPS 24](https://arxiv.org/abs/2312.07104), [OSDI 22](https://arxiv.org/abs/2201.12023), [OSDI 23](https://arxiv.org/abs/2302.11665), [ICML 21](https://arxiv.org/abs/2104.14129)
    - Other publications: [ICML 23](https://arxiv.org/abs/2303.06865), [SOSP 23](https://arxiv.org/abs/2309.06180), [MLSys 23](https://arxiv.org/abs/2211.05322), [MLSys 24](https://arxiv.org/abs/2311.03285)
-- Open large language models, benchmarks and datasets for large language models
+- Open large language models, benchmarks, and datasets for large language models
    - Projects: [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/) (lead), [Chatbot Arena](https://chat.lmsys.org/) (lead), [LMSYS-Chat-1M](https://huggingface.co/datasets/lmsys/lmsys-chat-1m) (lead)
    - First-author publications: [NeurIPS 23](https://arxiv.org/abs/2306.05685), [ICML 24](https://arxiv.org/abs/2403.04132), [ICLR 24](https://arxiv.org/abs/2309.11998), [Preprint 23](https://arxiv.org/abs/2311.04850)
 - Deep learning compilers and auto-tuning
@@ -29,6 +29,6 @@ I also co-founded the non-profit organization [LMSYS.org](https://lmsys.org/) to
    - First-author publications: [OSDI 20](https://arxiv.org/abs/2006.06762), [NeurIPS 21](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/a684eceee76fc522773286a895bc8436-Abstract-round1.html)
    - Other publications: [OSDI 18](https://arxiv.org/abs/1802.04799), [NeurIPS 20](https://arxiv.org/pdf/1805.08166.pdf), [ASPLOS 23](https://arxiv.org/abs/2207.04296)
 
-\*(lead) indicates that I am leading or co-leading the project.
+\*(lead) indicates that I lead or co-lead the project.
 
 [More publications](https://lmzheng.net/publications/)
