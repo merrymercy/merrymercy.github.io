@@ -14,8 +14,6 @@ I am a member of technical staff at xAI. My research interests include machine l
 Previously, I completed my Ph.D. at UC Berkeley, where I was advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
 I was honored to receive the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) and the [a16z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/) in recognition of my innovative research and impactful open-source projects. I also co-founded the non-profit organization [LMSYS.org](https://lmsys.org/) to advance open large language model research. We have developed open models with <u>millions of downloads</u>, crowdsourced platforms with <u>millions of users</u>, and systems that are <u>orders of magnitude</u> faster.
 
-The easiest way to reach me is via the SGLang [Slack](https://join.slack.com/t/sgl-fru7574/shared_invite/zt-2um0ad92q-LkU19KQTxCGzlCgRiOiQEw). We're looking for open-source enthusiasts and learners to help build the SGLang project and community. Contact us on Slack, [GitHub](https://github.com/sgl-project/sglang/tree/main), or by email. If you're a beginner and can commit 10-20 hours per week for at least six months, we can provide mentorship in machine learning systems.
-
 # Research
 - Systems for training and serving large models
    - Projects: [SGLang](https://github.com/sgl-project/sglang/tree/main) (lead), [FastChat](https://github.com/lm-sys/FastChat) (lead), [Alpa](https://github.com/alpa-projects/alpa) (lead), [FlexGen](https://github.com/FMInference/FlexGen), [vLLM](https://github.com/vllm-project/vllm)
