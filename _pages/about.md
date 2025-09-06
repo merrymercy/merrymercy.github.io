@@ -9,10 +9,14 @@ redirect_from:
 ---
 
 # About
-I am a member of technical staff at xAI. My research interests include machine learning systems, large language models, compilers, and distributed systems.
+I am a member of technical staff at xAI. I lead the inference team responsible for building efficient and reliable infrastructure to run Grok models.
+My expertise includes machine learning systems, large language models, compilers, and distributed systems.
 
-Previously, I completed my Ph.D. at UC Berkeley, where I was advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
-I was honored to receive the [Meta PhD Fellowship](https://research.facebook.com/fellows/zheng-lianmin/) and the [a16z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/) in recognition of my innovative research and impactful open-source projects. I also co-founded the non-profit organization [LMSYS.org](https://lmsys.org/) to advance open large language model research. We have developed open models with <u>millions of downloads</u>, crowdsourced platforms with <u>millions of users</u>, and systems that are <u>orders of magnitude</u> faster.
+Previously, I completed my Ph.D. at UC Berkeley, where I was advised by Ion Stoica and Joseph E. Gonzalez.
+I obtained my B.S. degree from ACM Honored Class, Shanghai Jiao Tong University.
+I was honored to receive the Meta PhD Fellowship and the a16z Open Source AI Grant (twice) in recognition of my innovative research and impactful open-source projects.
+I also co-founded the non-profit organization [LMSYS.org](https://lmsys.org/) to advance open research on large models.
+We have developed open models with <u>millions of downloads</u>, crowdsourced platforms with <u>millions of users</u>, and systems that are <u>orders of magnitude</u> faster.
 
 # Research
 - Systems for training and serving large models
