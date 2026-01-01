@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lianmin Zheng"
-  avatar           : "https://github.com/merrymercy/merrymercy.github.io/blob/master/images/profile.jpg?raw=true"
+  avatar           : "profile.jpg"
   bio              : ""
   location         : "Berkeley, CA"
   employer         :
